@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/kakaisaname/resk/services"
+	acservices "github.com/kakaisaname/account/services"
 )
 
 func main() {
