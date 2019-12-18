@@ -1,9 +1,9 @@
 package views
 
 import (
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/core/users"
+	"github.com/kakaisaname/infra"
+	"github.com/kakaisaname/infra/base"
+	"github.com/kakaisaname/resk/core/users"
 	"github.com/kataras/iris"
 	"path/filepath"
 	"runtime"

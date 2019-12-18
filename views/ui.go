@@ -2,13 +2,13 @@ package views
 
 import (
 	"fmt"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	"git.imooc.com/wendell1000/resk/services"
+	"github.com/kakaisaname/goRed/services"
+	"github.com/kakaisaname/infra"
+	"github.com/kakaisaname/infra/base"
 	"github.com/kataras/iris"
 	"github.com/shopspring/decimal"
 	log "github.com/sirupsen/logrus"
-	"imooc.com/resk-ui/core/users"
+	"goRed-ui/core/users"
 	"path/filepath"
 	"strconv"
 	"time"

@@ -1,11 +1,11 @@
 package main
 
 import (
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
+	"github.com/kakaisaname/infra"
+	"github.com/kakaisaname/infra/base"
 	"github.com/tietang/props/ini"
 	"github.com/tietang/props/kvs"
-	_ "imooc.com/resk-ui"
+	_ "goRed-ui"
 )
 
 func main() {

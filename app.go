@@ -1,11 +1,11 @@
-package resk
+package goRed_ui
 
 import (
-	_ "git.imooc.com/wendell1000/account/core/accounts"
-	"git.imooc.com/wendell1000/infra"
-	"git.imooc.com/wendell1000/infra/base"
-	_ "git.imooc.com/wendell1000/resk/core/envelopes"
-	_ "imooc.com/resk-ui/views"
+	_ "github.com/kakaisaname/account/core/accounts"
+	_ "github.com/kakaisaname/goRed/core/envelopes"
+	"github.com/kakaisaname/infra"
+	"github.com/kakaisaname/infra/base"
+	_ "goRed-ui/views"
 )
 
 func init() {
